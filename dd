@@ -1,7 +1,7 @@
 
 for github
 
-testtttttttttttttttttttt
+testttttttttttttttttttttt
 ------------------------------------------
 sudo apt update && sudo apt upgrade -y
 ---------------------------------------------
