@@ -11,6 +11,9 @@ die ( ) {
     echo
     exit 1
 }
+# Use the maximum available, or set MAX_FD != -1 to use that value.
+MAX_FD="maximum"
+##  Gradle start up script for UN*X
 APP_NAME="Gradle"
 APP_BASE_NAME=`basename "$0"`
 # Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
